@@ -1,0 +1,6 @@
+[submodule "Paradox_IP150"]
+	path = Paradox_IP150
+	url = https://github.com/PetrDa/Paradox_IP150
+[submodule "weatherflow2mqtt"]
+	path = weatherflow2mqtt
+	url = https://github.com/PetrDa/weatherflow2mqtt
